@@ -15445,7 +15445,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   text: 5. Diffuse&Ambient&Shininess&Specular&Emission
-  TargetCamera: {fileID: 0}
+  TargetCamera: {fileID: 1505212830}
   ShowInfoInGamePlay: 1
 --- !u!1 &945552435
 GameObject:
