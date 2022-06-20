@@ -1,5 +1,8 @@
 Shader "JJ Shader Demos/Culling_01"
 {
+	Properties{}
+
+
 	SubShader
 	{
 		Pass
@@ -15,4 +18,5 @@ Shader "JJ Shader Demos/Culling_01"
 			Cull Front
 		}
 	}
+
 }
